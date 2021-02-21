@@ -1,6 +1,6 @@
 <h1>Temtem API </h1>
 
-<p>Api criada apartir de um scrapping feito no site [temtme wiki](https://temtem.gamepedia.com/Temtem_Wiki)</p>
+Api criada apartir de um scrapping feito no site [temtme wiki](https://temtem.gamepedia.com/Temtem_Wiki)
 
 <p>Tecnologias utilizadas :globe_with_meridians:  </p>
 
