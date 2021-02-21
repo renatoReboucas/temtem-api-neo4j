@@ -14,5 +14,5 @@ Api criada apartir de um scrapping feito no site [temtme wiki](https://temtem.ga
 <h2> end-points :construction: </h2>
 
 * / - mensagem de boas vindas api
-* /create - crias os dados no neo4j(obs: google pega de hora em hora a previsão)
+* /createTemtem - crias os dados no neo4j(obs: google pega de hora em hora a previsão)
 * /getTemtem - lista os dados da salvos na api
